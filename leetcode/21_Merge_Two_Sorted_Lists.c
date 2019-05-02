@@ -1,3 +1,7 @@
+/*
+Algorithm reference: https://github.com/vivekanand44/codes-Youtube-videos/blob/master/merge%20two%20sorted%20linked%20list.cpp#L78
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
