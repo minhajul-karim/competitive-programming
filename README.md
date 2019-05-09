@@ -1,4 +1,4 @@
-# competitive-programming
+# Competitive Programming
 I am sharing my codes which has solved problems given in various websites. This repository is designed as such that, the solutions of website “x” can be found inside “x folder”.
 
 * [Leetcode](https://github.com/minhajul-karim/competitive-programming/tree/master/leetcode): Leetcode can be found [here](https://leetcode.com/)
