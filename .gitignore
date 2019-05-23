@@ -75,9 +75,4 @@ dkms.conf
 
 # Executables
 
-# Ignore files without extensions
-*
-!/**/
-!*.*
-
 # End of https://www.gitignore.io/api/c,c++
