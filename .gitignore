@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/c,linux
-# Edit at https://www.gitignore.io/?templates=c,linux
+# Created by https://www.gitignore.io/api/c,c++,linux
+# Edit at https://www.gitignore.io/?templates=c,c++,linux
 
 ### C ###
 # Prerequisites
@@ -56,6 +56,25 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+### C++ ###
+# Prerequisites
+
+# Compiled Object files
+*.slo
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+
+# Executables
+
 ### Linux ###
 *~
 
@@ -71,4 +90,4 @@ dkms.conf
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-# End of https://www.gitignore.io/api/c,linux
+# End of https://www.gitignore.io/api/c,c++,linux
