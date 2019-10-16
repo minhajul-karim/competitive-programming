@@ -57,7 +57,7 @@ vector<vector<int>> generate(int numRows)
 
 }
 
-void printVector(vec vectorToBeReceived)
+void printVector(vector<int> vectorToBeReceived)
 {
     if (vectorToBeReceived.size() == 0)
     {
