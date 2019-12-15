@@ -54,6 +54,7 @@ bool isSym(Node* rootNode)
     {
         // Keep the 1st value of queue
         Node* temp1 = q.front();
+        
         // Pop 1st value from front
         q.pop();
 
